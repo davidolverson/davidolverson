@@ -17,31 +17,43 @@
 
 ---
 
-I ship production-grade AI-native software as a solo studio — moving at the velocity of a four-person team by running Claude Code as my primary development environment.
-
-### What I build
-
-- **AI-native full-stack applications** — Next.js App Router, TypeScript, FastAPI, PostgreSQL
-- **Claude Code agent workflows** — custom skills, MCP servers, subagent orchestration
-- **Production systems at scale** — 10+ shipped apps across real estate, fintech, gaming, and content automation
+I ship production-grade AI-native software as a solo studio — moving at the velocity of a four-person team by running Claude Code as my primary development environment. Below is a cross-section of platforms I've designed, built, and shipped across real estate, fintech, gaming, and content automation.
 
 ### Selected work
 
-| Project | Stack | Status |
-|---|---|---|
-| **[Modern Grind Technology](https://moderngrindtech.com)** | Next.js 16, Tailwind v4, Prisma | Live |
-| **eXp Richmond PLE** | Next.js, PostgreSQL, DPOR-compliant 30hr course | Live |
-| **Cardinal** | Next.js, MLS integration, VA real estate | Live |
-| **2K-Hub** | Next.js, Neon, Discord integration | Live |
-| **Service Plug** | Next.js, Discord bot orchestration | Live |
-| **Holy Services** | Discord bot, Railway, 2K26 marketplace | Live |
+**[Modern Grind Technology](https://moderngrindtech.com)** · _Live_
+My solo software studio and the brand everything ships under. Next.js 16, Tailwind v4, Prisma. Beyond the marketing site, it runs a full internal control plane — CRM, billing, a Mission Control agent-orchestration dashboard, content radar, and a multi-terminal session board — that operates the entire business day to day.
+
+**[Check Up](https://checkup.gg)** · _Live_
+A competitive NBA 2K league platform running two concurrent draft leagues (Triple Threat 3v3 and Ascend 5v5) that share teams, logos, and players. Next.js, Neon Postgres, Discord. Features OCR stat tracking that reads box scores straight from 2K screenshots, a live draft engine, standings and awards, broadcast/watch-party scenes, General Manager and front-office role systems, and full payments (Whop in, PayPal payouts out).
+
+**[NuroPicks](https://nuropicks.com)** · _Live_
+An AI-powered sports-betting intelligence platform pairing a Discord bot with a web app. Next.js plus a scheduled bot worker. Generates a daily props "board," tracks closing-line value on every pick, scrapes live odds from sportsbooks (DraftKings), and layers in a fantasy surface — turning raw lines into a measurable edge.
+
+**[Pantheon](https://pantheonquest.com)** · _Live_
+An original Old-School RuneScape-style MMORPG private server built on Kotlin (Zenyte). A from-scratch game world with a custom connected god-faction city, a 23-skill economy, authored bosses and raids, custom 3D cache content (models, items, animations), Discord-first account linking, and a companion website and bot. "Choose Your God. Claim Your Destiny."
+
+**[Settle / Cardinal](https://settleva.com)** · _Live_
+A Virginia real-estate operating system for a brokerage — 133 pages and 70K+ lines. Next.js, Better Auth, Neon Postgres, Prisma. End-to-end platform spanning MLS-integrated listings, lead capture and routing, agent tooling, and transaction management.
+
+**[Service Plug](https://serviceplug.net)** · _Live_
+An all-in-one NBA 2K services marketplace with deep Discord-bot orchestration. Next.js and Discord.js on Railway. Handles the full order lifecycle — unified ticketing, a grinder/worker payout ledger with batch payouts, live chat, referrals, and giveaways.
+
+**[SherpaGrinders](https://sherpagrinders.com)** · _Launching_
+The Old-School RuneScape sibling of Service Plug — a gold, accounts, and services marketplace. A Discord-bot-driven order and fulfillment platform with a data-driven OSRS service catalog and a "rip engine" for sourcing. Currently in final pre-launch.
+
+**eXp Richmond** · _Delivered (client)_
+A DPOR-compliant 30-hour Virginia real-estate pre-licensing course paired with a brokerage recruiting site for the eXp Richmond team. Next.js and Postgres, with coastal-palette branch variants spun off for Virginia Beach and Black Lion.
+
+**VIBE CRM** · _In development_
+A multi-tenant CRM and lead engine for vertically integrated real-estate operators who run several business lines at once (real estate, mortgage, insurance, investing). Next.js, Prisma, Clerk, Stripe, and Twilio.
 
 ### Stack
 
 **Frontend** · Next.js 16 · React · TypeScript · Tailwind v4 · ShadCN UI
 **Backend** · FastAPI · Node.js · Python · PostgreSQL · Prisma · asyncpg
 **AI / Agents** · Claude Code · Model Context Protocol · Anthropic SDK · LangChain
-**Infra** · Vercel · Railway · DigitalOcean (Coolify) · Neon · Cloudflare
+**Infra** · Railway · DigitalOcean (Coolify) · Neon · Cloudflare
 
 ### GitHub activity
 
