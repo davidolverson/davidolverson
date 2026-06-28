@@ -1,6 +1,23 @@
-# David Olverson · Solo AI-Native Developer
+<p align="center">
+  <a href="https://moderngrindtech.com">
+    <img src="./assets/signature/signature-quote-banner.jpeg" alt="The grind, modernized — Modern Grind Technology" width="100%" />
+  </a>
+</p>
 
-Founder of **[Modern Grind Technology](https://moderngrindtech.com)**. I ship production-grade AI-native software as a solo studio, shipping at the velocity of a four-person team by working with Claude Code as my primary development environment.
+<h1 align="center">David Olverson</h1>
+<p align="center"><strong>Solo AI-Native Developer · Founder of <a href="https://moderngrindtech.com">Modern Grind Technology</a></strong></p>
+
+<p align="center">
+  <a href="https://moderngrindtech.com"><img src="https://img.shields.io/badge/Website-moderngrindtech.com-0b5d3b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/david-olverson-6314563b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/ModernGrindTech"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://discord.gg/moderngrindtech"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:david@moderngrindtech.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+I ship production-grade AI-native software as a solo studio — moving at the velocity of a four-person team by running Claude Code as my primary development environment.
 
 ### What I build
 
@@ -28,9 +45,12 @@ Founder of **[Modern Grind Technology](https://moderngrindtech.com)**. I ship pr
 
 ### GitHub activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=davidolverson&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165" alt="David Olverson's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidolverson&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="Top languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidolverson&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidolverson&hide_border=true&theme=tokyonight" height="165" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidolverson&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&count_private=true" height="150" alt="Top languages" />
 </p>
 
 ### Background
