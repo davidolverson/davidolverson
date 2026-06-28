@@ -26,6 +26,13 @@ Founder of **[Modern Grind Technology](https://moderngrindtech.com)**. I ship pr
 **AI / Agents** · Claude Code · Model Context Protocol · Anthropic SDK · LangChain
 **Infra** · Vercel · Railway · DigitalOcean (Coolify) · Neon · Cloudflare
 
+### GitHub activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=davidolverson&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165" alt="David Olverson's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidolverson&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="Top languages" />
+</p>
+
 ### Background
 
 - US Army 92Y Unit Supply Specialist (2016–2021)
@@ -37,7 +44,9 @@ Founder of **[Modern Grind Technology](https://moderngrindtech.com)**. I ship pr
 
 - **Website** · [moderngrindtech.com](https://moderngrindtech.com)
 - **About** · [moderngrindtech.com/about](https://moderngrindtech.com/about)
+- **LinkedIn** · [david-olverson](https://www.linkedin.com/in/david-olverson-6314563b2/)
 - **X** · [@ModernGrindTech](https://x.com/ModernGrindTech)
+- **Discord** · [discord.gg/moderngrindtech](https://discord.gg/moderngrindtech)
 - **Email** · david@moderngrindtech.com
 
 ### Open to
