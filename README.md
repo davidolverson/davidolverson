@@ -42,10 +42,19 @@ An all-in-one NBA 2K services marketplace with deep Discord-bot orchestration. N
 **[SherpaGrinders](https://sherpagrinders.com)** · _Launching_
 The Old-School RuneScape sibling of Service Plug — a gold, accounts, and services marketplace. A Discord-bot-driven order and fulfillment platform with a data-driven OSRS service catalog and a "rip engine" for sourcing. Currently in final pre-launch.
 
-**eXp Richmond** · _Delivered (client)_
+**[eXp Richmond](https://github.com/davidolverson/exp-richmond)** · _Delivered (client)_
 A DPOR-compliant 30-hour Virginia real-estate pre-licensing course paired with a brokerage recruiting site for the eXp Richmond team. Next.js and Postgres, with coastal-palette branch variants spun off for Virginia Beach and Black Lion.
 
-**VIBE CRM** · _In development_
+**[Token Valley Estates](https://tokenvalleyva.com)** · _Live (client)_
+Marketing site and VIP lead-capture funnel for a six-lot new-construction development in Prince William County, VA. Node/TypeScript, Express, Postgres. Instant lead alerts plus a weekly signup digest to the listing agent.
+
+**[C.O.R.A.L. Petersburg](https://coralpetersburg.org)** · _Live (client)_
+Concept site, resident interest capture, and business-partner intake for a proposed mission-driven cottage-court housing development in Petersburg, VA. Same lead-pipeline stack as Token Valley, rebuilt for a development (not a listing) pipeline.
+
+**[PG Guard Bot](https://github.com/davidolverson/pg-guard-bot)** · _Live_
+A custom Discord moderation bot built to fully replace Dyno for an 8,800+ member community. Automod core, anti-nuke, verification gating, persistent tempbans, full event logging, autoroles, starboard, and 28 slash commands — 226 assertions, every deploy log-verified live.
+
+**[VIBE CRM](https://github.com/davidolverson/vibe-crm)** · _In development_
 A multi-tenant CRM and lead engine for vertically integrated real-estate operators who run several business lines at once (real estate, mortgage, insurance, investing). Next.js, Prisma, Clerk, Stripe, and Twilio.
 
 ### Stack
