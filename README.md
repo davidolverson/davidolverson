@@ -28,7 +28,7 @@ My solo software studio and the brand everything ships under. Next.js 16, Tailwi
 A competitive NBA 2K league platform running two concurrent draft leagues (Triple Threat 3v3 and Ascend 5v5) that share teams, logos, and players. Next.js, Neon Postgres, Discord. Features OCR stat tracking that reads box scores straight from 2K screenshots, a live draft engine, standings and awards, broadcast/watch-party scenes, General Manager and front-office role systems, and full payments (Whop in, PayPal payouts out).
 
 **[NuroPicks](https://nuropicks.com)** · _Live_
-An AI-powered sports-betting intelligence platform pairing a Discord bot with a web app. Next.js plus a scheduled bot worker. Generates a daily props "board," tracks closing-line value on every pick, scrapes live odds from sportsbooks (DraftKings), and layers in a fantasy surface — turning raw lines into a measurable edge.
+An AI-powered sports-betting intelligence platform pairing a Discord bot with a web app. Next.js plus a scheduled bot worker. Generates a daily props "board," tracks closing-line value on every pick, consensus-prices across multiple sportsbooks (DraftKings, BetMGM, BetRivers, Bovada, Lucky Rebel), and layers in a fantasy surface — turning raw lines into a measurable edge.
 
 **[Pantheon](https://pantheonquest.com)** · _Live_
 An original Old-School RuneScape-style MMORPG private server built on Kotlin (Zenyte). A from-scratch game world with a custom connected god-faction city, a 23-skill economy, authored bosses and raids, custom 3D cache content (models, items, animations), Discord-first account linking, and a companion website and bot. "Choose Your God. Claim Your Destiny."
@@ -39,8 +39,8 @@ A Virginia real-estate operating system for a brokerage — 133 pages and 70K+ l
 **[Service Plug](https://serviceplug.net)** · _Live_
 An all-in-one NBA 2K services marketplace with deep Discord-bot orchestration. Next.js and Discord.js on Railway. Handles the full order lifecycle — unified ticketing, a grinder/worker payout ledger with batch payouts, live chat, referrals, and giveaways.
 
-**[SherpaGrinders](https://sherpagrinders.com)** · _Launching_
-The Old-School RuneScape sibling of Service Plug — a gold, accounts, and services marketplace. A Discord-bot-driven order and fulfillment platform with a data-driven OSRS service catalog and a "rip engine" for sourcing. Currently in final pre-launch.
+**[SherpaGrinders](https://sherpagrinders.com)** · _Live_
+The Old-School RuneScape sibling of Service Plug — a gold, accounts, and services marketplace. A Discord-bot-driven order and fulfillment platform with a data-driven OSRS service catalog, live gold pricing, order tracking, and a "rip engine" for sourcing.
 
 **[eXp Richmond](https://github.com/davidolverson/exp-richmond)** · _Delivered (client)_
 A DPOR-compliant 30-hour Virginia real-estate pre-licensing course paired with a brokerage recruiting site for the eXp Richmond team. Next.js and Postgres, with coastal-palette branch variants spun off for Virginia Beach and Black Lion.
@@ -49,13 +49,16 @@ A DPOR-compliant 30-hour Virginia real-estate pre-licensing course paired with a
 Marketing site and VIP lead-capture funnel for a six-lot new-construction development in Prince William County, VA. Node/TypeScript, Express, Postgres. Instant lead alerts plus a weekly signup digest to the listing agent.
 
 **[C.O.R.A.L. Petersburg](https://coralpetersburg.org)** · _Live (client)_
-Concept site, resident interest capture, and business-partner intake for a proposed mission-driven cottage-court housing development in Petersburg, VA. Same lead-pipeline stack as Token Valley, rebuilt for a development (not a listing) pipeline.
+Concept site, resident interest capture, and business-partner intake (`/developers`) for a proposed mission-driven cottage-court housing development in Petersburg, VA. Same lead-pipeline stack as Token Valley, rebuilt for a development (not a listing) pipeline.
 
 **[PG Guard Bot](https://github.com/davidolverson/pg-guard-bot)** · _Live_
 A custom Discord moderation bot built to fully replace Dyno for an 8,800+ member community. Automod core, anti-nuke, verification gating, persistent tempbans, full event logging, autoroles, starboard, and 28 slash commands — 226 assertions, every deploy log-verified live.
 
 **[VIBE CRM](https://github.com/davidolverson/vibe-crm)** · _In development_
 A multi-tenant CRM and lead engine for vertically integrated real-estate operators who run several business lines at once (real estate, mortgage, insurance, investing). Next.js, Prisma, Clerk, Stripe, and Twilio.
+
+**SolSip** · _In development (client)_
+A mobile med-spa booking and service platform for a San Francisco Bay Area practice. Booking is being kept platform-agnostic by design, and infrastructure is intentionally provisioned under the client's own accounts rather than mine — full client ownership from day one.
 
 ### Stack
 
