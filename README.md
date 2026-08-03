@@ -33,6 +33,9 @@ An AI-powered sports-betting intelligence platform pairing a Discord bot with a 
 **[Pantheon](https://pantheonquest.com)** · _Live_
 An original Old-School RuneScape-style MMORPG private server built on Kotlin (Zenyte). A from-scratch game world with a custom connected god-faction city, a 23-skill economy, authored bosses and raids, custom 3D cache content (models, items, animations), Discord-first account linking, and a companion website and bot. "Choose Your God. Claim Your Destiny."
 
+**[PALM6](https://palm6rp.com)** · _Live (Founding Beta)_
+A serious, whitelisted GTA V roleplay city built on FiveM/QBox. Player-run economy across five districts, player-owned businesses with real payroll and ledgers, gangs and turf, full civilian/PD/EMS/judicial departments, and a custom Def Jam-style fight club minigame with sportsbook-style betting — paired with a Next.js companion site handling whitelist, dispatch/MDT, and court dockets.
+
 **[Settle / Cardinal](https://settleva.com)** · _Live_
 A Virginia real-estate operating system for a brokerage — 133 pages and 70K+ lines. Next.js, Better Auth, Neon Postgres, Prisma. End-to-end platform spanning MLS-integrated listings, lead capture and routing, agent tooling, and transaction management.
 
@@ -50,9 +53,6 @@ Marketing site and VIP lead-capture funnel for a six-lot new-construction develo
 
 **[C.O.R.A.L. Petersburg](https://coralpetersburg.org)** · _Live (client)_
 Concept site, resident interest capture, and business-partner intake (`/developers`) for a proposed mission-driven cottage-court housing development in Petersburg, VA. Same lead-pipeline stack as Token Valley, rebuilt for a development (not a listing) pipeline.
-
-**[PG Guard Bot](https://github.com/davidolverson/pg-guard-bot)** · _Live_
-A custom Discord moderation bot built to fully replace Dyno for an 8,800+ member community. Automod core, anti-nuke, verification gating, persistent tempbans, full event logging, autoroles, starboard, and 28 slash commands — 226 assertions, every deploy log-verified live.
 
 **[VIBE CRM](https://github.com/davidolverson/vibe-crm)** · _In development_
 A multi-tenant CRM and lead engine for vertically integrated real-estate operators who run several business lines at once (real estate, mortgage, insurance, investing). Next.js, Prisma, Clerk, Stripe, and Twilio.
