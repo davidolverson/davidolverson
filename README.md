@@ -5,7 +5,11 @@
 </p>
 
 <h1 align="center">David Olverson</h1>
-<p align="center"><strong>Solo AI-Native Developer · Founder of <a href="https://moderngrindtech.com">Modern Grind Technology</a></strong></p>
+<p align="center">
+  <a href="https://moderngrindtech.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0B5D3B&center=true&vCenter=true&width=600&lines=Solo+AI-Native+Developer;Founder+of+Modern+Grind+Technology;Shipping+with+Claude+Code+as+my+dev+environment;Real+Estate+-+Fintech+-+Gaming+-+Content+Automation" alt="Solo AI-Native Developer, Founder of Modern Grind Technology" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://moderngrindtech.com"><img src="https://img.shields.io/badge/Website-moderngrindtech.com-0b5d3b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -62,19 +66,25 @@ A mobile med-spa booking and service platform for a San Francisco Bay Area pract
 
 ### Stack
 
-**Frontend** · Next.js 16 · React · TypeScript · Tailwind v4 · ShadCN UI
-**Backend** · FastAPI · Node.js · Python · PostgreSQL · Prisma · asyncpg
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,fastapi,nodejs,python,postgres,prisma,mysql,docker,git,github,githubactions,cloudflare,vercel,kotlin,discordjs,threejs" alt="Tech stack icons" />
+</p>
+
 **AI / Agents** · Claude Code · Model Context Protocol · Anthropic SDK · LangChain
 **Infra** · Railway · DigitalOcean (Coolify) · Neon · Cloudflare
 
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidolverson&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidolverson&hide_border=true&theme=tokyonight" height="165" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidolverson/davidolverson/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidolverson/davidolverson/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/davidolverson/davidolverson/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidolverson&layout=compact&hide_border=true&theme=tokyonight&langs_count=10&count_private=true" height="150" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidolverson&hide_border=true&theme=tokyonight" height="165" alt="GitHub streak" />
 </p>
 
 ### Background
