@@ -13,9 +13,8 @@
 
 <p align="center">
   <a href="https://moderngrindtech.com"><img src="https://img.shields.io/badge/Website-moderngrindtech.com-0b5d3b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/david-olverson-6314563b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/davidolverson"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/ModernGrindTech"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://discord.gg/moderngrindtech"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:david@moderngrindtech.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -31,11 +30,11 @@ My solo software studio and the brand everything ships under. Next.js 16, Tailwi
 **[Check Up](https://checkup.gg)** · _Live_
 A competitive NBA 2K league platform running two concurrent draft leagues (Triple Threat 3v3 and Ascend 5v5) that share teams, logos, and players. Next.js, Neon Postgres, Discord. Features OCR stat tracking that reads box scores straight from 2K screenshots, a live draft engine, standings and awards, broadcast/watch-party scenes, General Manager and front-office role systems, and full payments (Whop in, PayPal payouts out).
 
+**[ZEVR](https://zevr.gg)** · _Live_
+An esports organization being built in the open, where opportunity is earned and recorded rather than bought. Next.js, Postgres, Discord. A public org site plus a demo surface at [demo.zevr.gg](https://demo.zevr.gg), backed by a competition and community platform: a fully modelled Discord topology (56 channels, 26 tracked events, idempotent seeding), four entry programs, and a record that follows the player rather than the roster.
+
 **[NuroPicks](https://nuropicks.com)** · _Live_
 An AI-powered sports-betting intelligence platform pairing a Discord bot with a web app. Next.js plus a scheduled bot worker. Generates a daily props "board," tracks closing-line value on every pick, consensus-prices across multiple sportsbooks (DraftKings, BetMGM, BetRivers, Bovada, Lucky Rebel), and layers in a fantasy surface — turning raw lines into a measurable edge.
-
-**[Pantheon](https://pantheonquest.com)** · _Live_
-An original Old-School RuneScape-style MMORPG private server built on Kotlin (Zenyte). A from-scratch game world with a custom connected god-faction city, a 23-skill economy, authored bosses and raids, custom 3D cache content (models, items, animations), Discord-first account linking, and a companion website and bot. "Choose Your God. Claim Your Destiny."
 
 **[PALM6](https://palm6rp.com)** · _Live (Founding Beta)_
 A serious, whitelisted GTA V roleplay city built on FiveM/QBox. Player-run economy across five districts, player-owned businesses with real payroll and ledgers, gangs and turf, full civilian/PD/EMS/judicial departments, and a custom Def Jam-style fight club minigame with sportsbook-style betting — paired with a Next.js companion site handling whitelist, dispatch/MDT, and court dockets.
@@ -49,7 +48,7 @@ An all-in-one NBA 2K services marketplace with deep Discord-bot orchestration. N
 **[SherpaGrinders](https://sherpagrinders.com)** · _Live_
 The Old-School RuneScape sibling of Service Plug — a gold, accounts, and services marketplace. A Discord-bot-driven order and fulfillment platform with a data-driven OSRS service catalog, live gold pricing, order tracking, and a "rip engine" for sourcing.
 
-**[eXp Richmond](https://github.com/davidolverson/exp-richmond)** · _Delivered (client)_
+**[eXp Richmond](https://exprichmond.com)** · _Delivered (client)_
 A DPOR-compliant 30-hour Virginia real-estate pre-licensing course paired with a brokerage recruiting site for the eXp Richmond team. Next.js and Postgres, with coastal-palette branch variants spun off for Virginia Beach and Black Lion.
 
 **[Token Valley Estates](https://tokenvalleyva.com)** · _Live (client)_
@@ -58,7 +57,7 @@ Marketing site and VIP lead-capture funnel for a six-lot new-construction develo
 **[C.O.R.A.L. Petersburg](https://coralpetersburg.org)** · _Live (client)_
 Concept site, resident interest capture, and business-partner intake (`/developers`) for a proposed mission-driven cottage-court housing development in Petersburg, VA. Same lead-pipeline stack as Token Valley, rebuilt for a development (not a listing) pipeline.
 
-**[VIBE CRM](https://github.com/davidolverson/vibe-crm)** · _In development_
+**VIBE CRM** · _In development_
 A multi-tenant CRM and lead engine for vertically integrated real-estate operators who run several business lines at once (real estate, mortgage, insurance, investing). Next.js, Prisma, Clerk, Stripe, and Twilio.
 
 **SolSip** · _In development (client)_
@@ -98,9 +97,8 @@ A mobile med-spa booking and service platform for a San Francisco Bay Area pract
 
 - **Website** · [moderngrindtech.com](https://moderngrindtech.com)
 - **About** · [moderngrindtech.com/about](https://moderngrindtech.com/about)
-- **LinkedIn** · [david-olverson](https://www.linkedin.com/in/david-olverson-6314563b2/)
+- **LinkedIn** · [davidolverson](https://www.linkedin.com/in/davidolverson)
 - **X** · [@ModernGrindTech](https://x.com/ModernGrindTech)
-- **Discord** · [discord.gg/moderngrindtech](https://discord.gg/moderngrindtech)
 - **Email** · david@moderngrindtech.com
 
 ### Open to
