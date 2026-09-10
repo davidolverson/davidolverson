@@ -24,43 +24,49 @@ I ship production-grade AI-native software as a solo studio — moving at the ve
 
 ### Selected work
 
-**[Modern Grind Technology](https://moderngrindtech.com)** · _Live_
+**13 platforms designed, built and shipped · 10 live in production today.**
+
+#### Platforms
+
+**[Modern Grind Technology](https://moderngrindtech.com)** <img src="https://img.shields.io/badge/live-0b5d3b?style=flat-square" alt="Live" />
 My solo software studio and the brand everything ships under. Next.js 16, Tailwind v4, Prisma. Beyond the marketing site, it runs a full internal control plane — CRM, billing, a Mission Control agent-orchestration dashboard, content radar, and a multi-terminal session board — that operates the entire business day to day.
 
-**[Check Up](https://checkup.gg)** · _Live_
+**[Check Up](https://checkup.gg)** <img src="https://img.shields.io/badge/live-0b5d3b?style=flat-square" alt="Live" />
 A competitive NBA 2K league platform running two concurrent draft leagues (Triple Threat 3v3 and Ascend 5v5) that share teams, logos, and players. Next.js, Neon Postgres, Discord. Features OCR stat tracking that reads box scores straight from 2K screenshots, a live draft engine, standings and awards, broadcast/watch-party scenes, General Manager and front-office role systems, and full payments (Whop in, PayPal payouts out).
 
-**[ZEVR](https://zevr.gg)** · _Live_
-An esports organization being built in the open, where opportunity is earned and recorded rather than bought. Next.js, Postgres, Discord. A public org site plus a demo surface at [demo.zevr.gg](https://demo.zevr.gg), backed by a competition and community platform: a fully modelled Discord topology (56 channels, 26 tracked events, idempotent seeding), four entry programs, and a record that follows the player rather than the roster.
+**[ZEVR](https://zevr.gg)** <img src="https://img.shields.io/badge/live-0b5d3b?style=flat-square" alt="Live" />
+An esports organization being built in the open, where opportunity is earned and recorded rather than bought. Next.js, Postgres, Discord. A public org site plus a demo surface at [demo.zevr.gg](https://demo.zevr.gg), backed by a competition and community platform: four ways in, none of them bought, and a competitive record that follows the player rather than the roster.
 
-**[NuroPicks](https://nuropicks.com)** · _Live_
+**[NuroPicks](https://nuropicks.com)** <img src="https://img.shields.io/badge/live-0b5d3b?style=flat-square" alt="Live" />
 An AI-powered sports-betting intelligence platform pairing a Discord bot with a web app. Next.js plus a scheduled bot worker. Generates a daily props "board," tracks closing-line value on every pick, consensus-prices across multiple sportsbooks (DraftKings, BetMGM, BetRivers, Bovada, Lucky Rebel), and layers in a fantasy surface — turning raw lines into a measurable edge.
 
-**[PALM6](https://palm6rp.com)** · _Live (Founding Beta)_
+**[PALM6](https://palm6rp.com)** <img src="https://img.shields.io/badge/live%20·%20founding%20beta-9a6b1f?style=flat-square" alt="Live (Founding Beta)" />
 A serious, whitelisted GTA V roleplay city built on FiveM/QBox. Player-run economy across five districts, player-owned businesses with real payroll and ledgers, gangs and turf, full civilian/PD/EMS/judicial departments, and a custom Def Jam-style fight club minigame with sportsbook-style betting — paired with a Next.js companion site handling whitelist, dispatch/MDT, and court dockets.
 
-**[Settle / Cardinal](https://settleva.com)** · _Live_
+**[Settle / Cardinal](https://settleva.com)** <img src="https://img.shields.io/badge/live-0b5d3b?style=flat-square" alt="Live" />
 A Virginia real-estate operating system for a brokerage — 133 pages and 70K+ lines. Next.js, Better Auth, Neon Postgres, Prisma. End-to-end platform spanning MLS-integrated listings, lead capture and routing, agent tooling, and transaction management.
 
-**[Service Plug](https://serviceplug.net)** · _Live_
+**[Service Plug](https://serviceplug.net)** <img src="https://img.shields.io/badge/live-0b5d3b?style=flat-square" alt="Live" />
 An all-in-one NBA 2K services marketplace with deep Discord-bot orchestration. Next.js and Discord.js on Railway. Handles the full order lifecycle — unified ticketing, a grinder/worker payout ledger with batch payouts, live chat, referrals, and giveaways.
 
-**[SherpaGrinders](https://sherpagrinders.com)** · _Live_
+**[SherpaGrinders](https://sherpagrinders.com)** <img src="https://img.shields.io/badge/live-0b5d3b?style=flat-square" alt="Live" />
 The Old-School RuneScape sibling of Service Plug — a gold, accounts, and services marketplace. A Discord-bot-driven order and fulfillment platform with a data-driven OSRS service catalog, live gold pricing, order tracking, and a "rip engine" for sourcing.
 
-**[eXp Richmond](https://exprichmond.com)** · _Delivered (client)_
-A DPOR-compliant 30-hour Virginia real-estate pre-licensing course paired with a brokerage recruiting site for the eXp Richmond team. Next.js and Postgres, with coastal-palette branch variants spun off for Virginia Beach and Black Lion.
-
-**[Token Valley Estates](https://tokenvalleyva.com)** · _Live (client)_
-Marketing site and VIP lead-capture funnel for a six-lot new-construction development in Prince William County, VA. Node/TypeScript, Express, Postgres. Instant lead alerts plus a weekly signup digest to the listing agent.
-
-**[C.O.R.A.L. Petersburg](https://coralpetersburg.org)** · _Live (client)_
-Concept site, resident interest capture, and business-partner intake (`/developers`) for a proposed mission-driven cottage-court housing development in Petersburg, VA. Same lead-pipeline stack as Token Valley, rebuilt for a development (not a listing) pipeline.
-
-**VIBE CRM** · _In development_
+**VIBE CRM** <img src="https://img.shields.io/badge/in%20development-5a5a5a?style=flat-square" alt="In development" />
 A multi-tenant CRM and lead engine for vertically integrated real-estate operators who run several business lines at once (real estate, mortgage, insurance, investing). Next.js, Prisma, Clerk, Stripe, and Twilio.
 
-**SolSip** · _In development (client)_
+#### Client work
+
+**[eXp Richmond](https://exprichmond.com)** <img src="https://img.shields.io/badge/delivered%20·%20client-3f5c52?style=flat-square" alt="Delivered (client)" />
+A DPOR-compliant 30-hour Virginia real-estate pre-licensing course paired with a brokerage recruiting site for the eXp Richmond team. Next.js and Postgres, with coastal-palette branch variants spun off for Virginia Beach and Black Lion.
+
+**[Token Valley Estates](https://tokenvalleyva.com)** <img src="https://img.shields.io/badge/live%20·%20client-0b5d3b?style=flat-square" alt="Live (client)" />
+Marketing site and VIP lead-capture funnel for a six-lot new-construction development in Prince William County, VA. Node/TypeScript, Express, Postgres. Instant lead alerts plus a weekly signup digest to the listing agent.
+
+**[C.O.R.A.L. Petersburg](https://coralpetersburg.org)** <img src="https://img.shields.io/badge/live%20·%20client-0b5d3b?style=flat-square" alt="Live (client)" />
+Concept site, resident interest capture, and business-partner intake (`/developers`) for a proposed mission-driven cottage-court housing development in Petersburg, VA. Same lead-pipeline stack as Token Valley, rebuilt for a development (not a listing) pipeline.
+
+**SolSip** <img src="https://img.shields.io/badge/in%20development%20·%20client-5a5a5a?style=flat-square" alt="In development (client)" />
 A mobile med-spa booking and service platform for a San Francisco Bay Area practice. Booking is being kept platform-agnostic by design, and infrastructure is intentionally provisioned under the client's own accounts rather than mine — full client ownership from day one.
 
 ### Stack
