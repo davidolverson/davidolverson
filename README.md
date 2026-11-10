@@ -43,9 +43,6 @@ An AI-powered sports-betting intelligence platform pairing a Discord bot with a 
 **[PALM6](https://palm6rp.com)** <img src="https://img.shields.io/badge/live%20·%20founding%20beta-9a6b1f?style=flat-square" alt="Live (Founding Beta)" /><br>
 A serious, whitelisted GTA V roleplay city built on FiveM/QBox. Player-run economy across five districts, player-owned businesses with real payroll and ledgers, gangs and turf, full civilian/PD/EMS/judicial departments, and a custom Def Jam-style fight club minigame with sportsbook-style betting — paired with a Next.js companion site handling whitelist, dispatch/MDT, and court dockets.
 
-**[Settle / Cardinal](https://settleva.com)** <img src="https://img.shields.io/badge/live-0b5d3b?style=flat-square" alt="Live" /><br>
-A Virginia real-estate operating system for a brokerage — 133 pages and 70K+ lines. Next.js, Better Auth, Neon Postgres, Prisma. End-to-end platform spanning MLS-integrated listings, lead capture and routing, agent tooling, and transaction management.
-
 **[Service Plug](https://serviceplug.net)** <img src="https://img.shields.io/badge/live-0b5d3b?style=flat-square" alt="Live" /><br>
 An all-in-one NBA 2K services marketplace with deep Discord-bot orchestration. Next.js and Discord.js on Railway. Handles the full order lifecycle — unified ticketing, a grinder/worker payout ledger with batch payouts, live chat, referrals, and giveaways.
 
@@ -56,15 +53,6 @@ The Old-School RuneScape sibling of Service Plug — a gold, accounts, and servi
 A multi-tenant CRM and lead engine for vertically integrated real-estate operators who run several business lines at once (real estate, mortgage, insurance, investing). Next.js, Prisma, Clerk, Stripe, and Twilio.
 
 #### Client work
-
-**[eXp Richmond](https://exprichmond.com)** <img src="https://img.shields.io/badge/delivered%20·%20client-3f5c52?style=flat-square" alt="Delivered (client)" /><br>
-A DPOR-compliant 30-hour Virginia real-estate pre-licensing course paired with a brokerage recruiting site for the eXp Richmond team. Next.js and Postgres, with coastal-palette branch variants spun off for Virginia Beach and Black Lion.
-
-**[Token Valley Estates](https://tokenvalleyva.com)** <img src="https://img.shields.io/badge/live%20·%20client-0b5d3b?style=flat-square" alt="Live (client)" /><br>
-Marketing site and VIP lead-capture funnel for a six-lot new-construction development in Prince William County, VA. Node/TypeScript, Express, Postgres. Instant lead alerts plus a weekly signup digest to the listing agent.
-
-**[C.O.R.A.L. Petersburg](https://coralpetersburg.org)** <img src="https://img.shields.io/badge/live%20·%20client-0b5d3b?style=flat-square" alt="Live (client)" /><br>
-Concept site, resident interest capture, and business-partner intake (`/developers`) for a proposed mission-driven cottage-court housing development in Petersburg, VA. Same lead-pipeline stack as Token Valley, rebuilt for a development (not a listing) pipeline.
 
 **SolSip** <img src="https://img.shields.io/badge/in%20development%20·%20client-5a5a5a?style=flat-square" alt="In development (client)" /><br>
 A mobile med-spa booking and service platform for a San Francisco Bay Area practice. Booking is being kept platform-agnostic by design, and infrastructure is intentionally provisioned under the client's own accounts rather than mine — full client ownership from day one.
